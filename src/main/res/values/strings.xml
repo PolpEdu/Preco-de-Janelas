@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">JanelasAppTest</string>
+    <string name="hello_world_janelas_app">Hello World! Janelas App!</string>
+    <string name="calcular">Calcular</string>
+    <string name="base">Base:</string>
+    <string name="tipo_de_vidro">Tipo de Vidro:</string>
+    <string name="largura_do_vidro_1">Largura do Vidro 1</string>
+    <string name="largura_do_vidro">Largura do Vidro 1:</string>
+    <string name="tipo_de_vidro_1">Tipo de Vidro 1</string>
+    <string name="butiral">Butiral</string>
+    <string name="caixa">Caixa</string>
+    <string name="argon">Argon</string>
+    <string name="tempera">Tempera</string>
+    <string name="tipo_de_vidro_2">Tipo de Vidro 2</string>
+    <string name="largura_do_vidro_2">Largura do Vidro 2</string>
+    <string name="butiral_1">Butiral 1</string>
+    <string name="butiral_2">Butiral 2</string>
+    <string name="area">Area</string>
+    <string name="forma">Forma</string>
+    <string name="resultado">Resultado</string>
+    <string name="janelas_app">Janelas APP</string>
+    <string name="total">Total</string>
+    <string name="expessura">Expessura</string>
+
+    <!-- Array de tipos de janelas -->
+    <string-array name="PrimeiroVidro">
+        <item>Planiclear</item>
+        <item>Extra claro</item>
+        <item>Bronze_ver_gris</item>
+        <item>Azul</item>
+        <item>Fosco</item>
+        <item>P126</item>
+        <item>Bioclean</item>
+        <item>ST-120 ou 150 incolor</item>
+        <item>STB120</item>
+        <item>ST-420 verde</item>
+        <item>Antélio claro</item>
+        <item>Stopsol claro</item>
+        <item>Stopsol B_V_G</item>
+        <item>Stopsol azul</item>
+        <item>Laminado inc</item>
+        <item>Lam Planitherm</item>
+        <item>Planitherm</item>
+        <item>Planitherm Temp</item>
+        <item>ClimaGuard Premiun2</item>
+        <item>ClimaGuard Premiun2 temp</item>
+        <item>4S Planitherm</item>
+        <item>4S Planitherm Temp</item>
+        <item>ONE Planitherm</item>
+        <item>ONE Planitherm Temp</item>
+        <item>Guardian Sun</item>
+        <item>Guardian Sun Temp</item>
+        <item>Planistar</item>
+        <item>SKN154/165/176 II</item>
+        <item>Xtream 60/28 Temp</item>
+    </string-array>
+
+    <string-array name="Larguras">
+    <item>Nada</item>
+    <item>4mm</item>
+    <item>5mm</item>
+    <item>6mm</item>
+    <item>8mm</item>
+    <item>10mm</item>
+    <item>12mm</item>
+    <item>14mm</item>
+    <item>16mm</item>
+    </string-array>
+
+    <string-array name="Butiral">
+        <item>Nada</item>
+        <item>2ºButiral inc</item>
+        <item>4ºButiral inc</item>
+        <item>2ºButiral opalino</item>
+        <item>1ºButiral silence</item>
+        <item>2ºButiral silence</item>
+        <item>3ºButiral silence</item>
+        <item>1ºButiral B_V_G</item>
+    </string-array>
+
+    <string-array name="Caixa">
+        <item>caixa 12mm</item>
+        <item>caixa 14mm</item>
+        <item>caixa 16mm</item>
+        <item>caixa 18mm</item>
+        <item>caixa 20mm</item>
+        <item>caixa mais de 20 mm</item>
+        <item>caixa lac branca ou preta</item>
+        <item>Silicone estrutural</item>
+    </string-array>
+
+    <string-array name="Argon">
+        <item>Nada</item>
+        <item>Argon 16mm</item>
+        <item>Argon 18mm</item>
+        <item>Argon 20mm</item>
+        <item>Argon 22mm</item>
+        <item>Argon 24mm</item>
+        <item>Argon 27mm</item>
+    </string-array>
+
+    <string-array name="Tempera">
+        <item>Nada</item>
+        <item>Decalage</item>
+        <item>Tempera4</item>
+        <item>Tempera5</item>
+        <item>Tempera6</item>
+        <item>Tempera8</item>
+        <item>Tempera10</item>
+        <item>Tempera11</item>
+        <item>Tempera12</item>
+        <item>Tempera13</item>
+        <item>Tempera14</item>
+        <item>Tempera15</item>
+        <item>Tempera16</item>
+        <item>Tempera17</item>
+        <item>Tempera18</item>
+        <item>Tempera19</item>
+        <item>Tempera20</item>
+    </string-array>
+
+    <string-array name="Area">
+        <item>Nada</item>
+        <item>entre 4 a 6m2</item>
+        <item>entre 6 a 8m2</item>
+        <item>entre 8 a 10m2</item>
+        <item>entre 10 a 12m2</item>
+        <item>mais 12m2</item>
+    </string-array>
+
+    <string-array name="Forma">
+        <item>Nada</item>
+        <item>Sutado</item>
+        <item>Molde</item>
+        <item>Circular ou oval</item>
+        <item>com furo</item>
+    </string-array>
+
+</resources>
